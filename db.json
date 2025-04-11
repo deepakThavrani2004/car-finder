@@ -1,0 +1,164 @@
+{
+  "cars": 
+[
+  {
+    "id": 1,
+    "name": "Tesla Model S",
+    "image": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "fuel": "Electric",
+    "type": "Sedan",
+    "price": 79999
+  },
+  {
+    "id": 2,
+    "name": "Ford Mustang GT",
+    "image": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "fuel": "Petrol",
+    "type": "Coupe",
+    "price": 55999
+  },
+  {
+    "id": 3,
+    "name": "BMW X5",
+    "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "fuel": "Diesel",
+    "type": "SUV",
+    "price": 60999
+  },
+  {
+    "id": 4,
+    "name": "Audi A4",
+    "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "fuel": "Petrol",
+    "type": "Sedan",
+    "price": 39999
+  },
+  {
+    "id": 5,
+    "name": "Mercedes-Benz C-Class",
+    "image": "https://images.unsplash.com/photo-1587654321098-abcdefabcdef",
+    "fuel": "Diesel",
+    "type": "Sedan",
+    "price": 42999
+  },
+  {
+    "id": 6,
+    "name": "Chevrolet Camaro",
+    "image": "https://images.unsplash.com/photo-1555353540-64580b51c258?q=80&w=1578&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "fuel": "Petrol",
+    "type": "Coupe",
+    "price": 49999
+  },
+  {
+    "id": 7,
+    "name": "Honda Civic",
+    "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "fuel": "Petrol",
+    "type": "Sedan",
+    "price": 22999
+  },
+  {
+    "id": 8,
+    "name": "Toyota Corolla",
+    "image": "https://images.unsplash.com/photo-1555353540-64580b51c258?q=80&w=1578&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "fuel": "Petrol",
+    "type": "Sedan",
+    "price": 20999
+  },
+  {
+    "id": 9,
+    "name": "Nissan Leaf",
+    "image": "https://images.unsplash.com/photo-1555353540-64580b51c258?q=80&w=1578&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "fuel": "Electric",
+    "type": "Hatchback",
+    "price": 31999
+  },
+  {
+    "id": 10,
+    "name": "Hyundai Kona Electric",
+    "image": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "fuel": "Electric",
+    "type": "SUV",
+    "price": 34999
+  },
+  {
+    "id": 11,
+    "name": "Kia Seltos",
+    "image": "https://images.unsplash.com/photo-1521098765432-abcdefabcdef",
+    "fuel": "Petrol",
+    "type": "SUV",
+    "price": 23999
+  },
+  {
+    "id": 12,
+    "name": "Volkswagen Golf",
+    "image": "https://images.unsplash.com/photo-1510987654321-fedcbafedcba",
+    "fuel": "Diesel",
+    "type": "Hatchback",
+    "price": 27999
+  },
+  {
+    "id": 13,
+    "name": "Subaru Outback",
+    "image": "https://images.unsplash.com/photo-1509876543210-abcdefabcdef",
+    "fuel": "Petrol",
+    "type": "Wagon",
+    "price": 33999
+  },
+  {
+    "id": 14,
+    "name": "Mazda CX-5",
+    "image": "https://images.unsplash.com/photo-1498765432109-fedcbafedcba",
+    "fuel": "Petrol",
+    "type": "SUV",
+    "price": 28999
+  },
+  {
+    "id": 15,
+    "name": "Jeep Wrangler",
+    "image": "https://images.unsplash.com/photo-1487654321098-abcdefabcdef",
+    "fuel": "Diesel",
+    "type": "SUV",
+    "price": 39999
+  },
+  {
+    "id": 16,
+    "name": "Land Rover Defender",
+    "image": "https://images.unsplash.com/photo-1476543210987-fedcbafedcba",
+    "fuel": "Diesel",
+    "type": "SUV",
+    "price": 64999
+  },
+  {
+    "id": 17,
+    "name": "Porsche 911",
+    "image": "https://images.unsplash.com/photo-1465432109876-abcdefabcdef",
+    "fuel": "Petrol",
+    "type": "Coupe",
+    "price": 99999
+  },
+  {
+    "id": 18,
+    "name": "Lamborghini Huracan",
+    "image": "https://images.unsplash.com/photo-1454321098765-fedcbafedcba",
+    "fuel": "Petrol",
+    "type": "Coupe",
+    "price": 199999
+  },
+  {
+    "id": 19,
+    "name": "Ferrari F8 Tributo",
+    "image": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "fuel": "Petrol",
+    "type": "Coupe",
+    "price": 279999
+  },
+  {
+    "id": 20,
+    "name": "Bugatti Chiron",
+    "image": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "fuel": "Petrol",
+    "type": "Coupe",
+    "price": 2999999
+  }
+]}
